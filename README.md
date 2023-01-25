@@ -1,6 +1,8 @@
 
 ### Olá Eu sou o Wesley Henrique 👋
 
+Estudante de Front-End,
+
 [![Portfólio](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://wesdev.netlify.app/)
 [![Portfólio](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesleyhenrique7//)
 
@@ -13,4 +15,9 @@
     <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
        <img align="center" alt="JavaScript" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
            <img align="center" alt="JavaScript" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-</div>
+</div><br>
+
+
+Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+
+
