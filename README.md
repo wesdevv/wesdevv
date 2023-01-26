@@ -7,7 +7,7 @@ Estudante de Front-End,
 [![Portfólio](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesleyhenrique7//)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/d86c6950-fb86-405e-96af-45700a5a649f/deploy-status)](https://app.netlify.com/sites/wesdev/deploys)
 
-)](https://www.linkedin.com/in/wesleyhenrique7//)
+
 
 ![Wesdevv GitHub stats](https://github-readme-stats.vercel.app/api?username=wesdevv&show_icons=true&theme=dracula)
 
